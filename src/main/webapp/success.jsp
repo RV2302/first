@@ -8,6 +8,6 @@
 </head>
 <body>
 
-	"This is success page  PPP"
+	"This is success page"
 </body>
 </html>
